@@ -1,4 +1,4 @@
-# Lab 03
+# Lab 04
 
 This lab is similar to the encoder/decoder ring in that you write procedures to
 translate input lines one at a time for output.  As with the ring program,
